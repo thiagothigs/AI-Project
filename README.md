@@ -4,4 +4,5 @@ This project proposes an visual speech recognition method using lip movement ext
 only is about 79%.
 
 Dataset link/code: https://goo.gl/t1SozR
+
 Paper in portuguese: http://swge.inf.br/SBAI2015/anais/196.pdf
