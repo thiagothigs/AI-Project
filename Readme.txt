@@ -1,0 +1,1 @@
+Executar script main.m.

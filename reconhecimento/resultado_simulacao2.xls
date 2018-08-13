@@ -1,0 +1,8 @@
+ANÁLISE SISTEMA DE RECONHECIMENTO DE FALA QUANTO À VARIAÇÃO DE PARÂMETROS
+(S)	BTF	Número Iteracões	(0)Treino	(1)Treino	(2)Treino	(3)Treino	(4)Treino	(5)Treino	(6)Treino	(7)Treino	(8)Treino	(9)Treino	(Geral)Treino	(0)Teste	(1)Teste	(2)Teste	(3)Teste	(4)Teste	(5)Teste	(6)Teste	(7)Teste	(8)Teste	(9)Teste	(Geral)Teste
+10 	trainrp 	30	0.573	0.677	0.757	0.233	0.263	0.387	0.263	0.573	0.477	0.793	0.500	0.423	0.420	0.480	0.173	0.190	0.273	0.140	0.567	0.350	0.550	0.357
+20 	trainrp 	30	0.597	0.747	0.797	0.430	0.467	0.403	0.453	0.610	0.487	0.840	0.583	0.513	0.327	0.490	0.333	0.293	0.360	0.237	0.593	0.417	0.557	0.412
+
+TOTAL DE ITERAÇÕES DA ANÁLISE DO RECONHECEDOR DE FALA: 60 ITERAÇÕES.
+
+Tempo de execução: 0.420617 minutos
